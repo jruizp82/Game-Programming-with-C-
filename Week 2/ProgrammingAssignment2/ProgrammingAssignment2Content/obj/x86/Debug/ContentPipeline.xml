@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bart.png</Source>
+      <Name>bart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 2\Exercises\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\bart.xnb</Output>
+      <Time>2013-09-29T18:09:25.3839628+02:00</Time>
+    </Item>
+    <Item>
+      <Source>homero.png</Source>
+      <Name>homero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 2\Exercises\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\homero.xnb</Output>
+      <Time>2013-09-29T18:10:30.3373144+02:00</Time>
+    </Item>
+    <Item>
+      <Source>lisa.png</Source>
+      <Name>lisa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 2\Exercises\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\lisa.xnb</Output>
+      <Time>2013-09-29T18:10:55.8380228+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maggie.png</Source>
+      <Name>maggie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 2\Exercises\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\maggie.xnb</Output>
+      <Time>2013-09-29T18:11:28.2541946+02:00</Time>
+    </Item>
+    <Item>
+      <Source>marge.png</Source>
+      <Name>marge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 2\Exercises\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\marge.xnb</Output>
+      <Time>2013-09-29T18:12:01.8054424+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 2\Exercises\ProgrammingAssignment2\ProgrammingAssignment2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 2\Exercises\ProgrammingAssignment2\ProgrammingAssignment2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 2\Exercises\ProgrammingAssignment2\ProgrammingAssignment2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 2\Exercises\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-21T23:13:31.4196792+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

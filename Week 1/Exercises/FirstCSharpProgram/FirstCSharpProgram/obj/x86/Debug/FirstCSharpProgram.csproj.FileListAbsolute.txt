@@ -1,0 +1,5 @@
+C:\Users\Ruiz\Documents\Informática\CURSOS\Beginning Game Programming with C#\Week 1\Exercises\FirstCSharpProgram\FirstCSharpProgram\bin\Debug\FirstCSharpProgram.exe
+C:\Users\Ruiz\Documents\Informática\CURSOS\Beginning Game Programming with C#\Week 1\Exercises\FirstCSharpProgram\FirstCSharpProgram\bin\Debug\FirstCSharpProgram.pdb
+C:\Users\Ruiz\Documents\Informática\CURSOS\Beginning Game Programming with C#\Week 1\Exercises\FirstCSharpProgram\FirstCSharpProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruiz\Documents\Informática\CURSOS\Beginning Game Programming with C#\Week 1\Exercises\FirstCSharpProgram\FirstCSharpProgram\obj\x86\Debug\FirstCSharpProgram.exe
+C:\Users\Ruiz\Documents\Informática\CURSOS\Beginning Game Programming with C#\Week 1\Exercises\FirstCSharpProgram\FirstCSharpProgram\obj\x86\Debug\FirstCSharpProgram.pdb

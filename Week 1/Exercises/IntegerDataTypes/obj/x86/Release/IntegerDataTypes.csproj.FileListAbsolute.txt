@@ -1,0 +1,8 @@
+C:\Users\Dr. T\AppData\Local\Temporary Projects\IntegerDataTypes\bin\Release\IntegerDataTypes.exe
+C:\Users\Dr. T\AppData\Local\Temporary Projects\IntegerDataTypes\bin\Release\IntegerDataTypes.pdb
+C:\Users\Dr. T\AppData\Local\Temporary Projects\IntegerDataTypes\obj\x86\Release\IntegerDataTypes.exe
+C:\Users\Dr. T\AppData\Local\Temporary Projects\IntegerDataTypes\obj\x86\Release\IntegerDataTypes.pdb
+C:\Users\Ruiz\Documents\Informática\CURSOS\Beginning Game Programming with C#\Week 1\Exercises\Integer Data Types\obj\x86\Release\IntegerDataTypes.exe
+C:\Users\Ruiz\Documents\Informática\CURSOS\Beginning Game Programming with C#\Week 1\Exercises\Integer Data Types\obj\x86\Release\IntegerDataTypes.pdb
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\IntegerDataTypes\obj\x86\Release\IntegerDataTypes.exe
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\IntegerDataTypes\obj\x86\Release\IntegerDataTypes.pdb

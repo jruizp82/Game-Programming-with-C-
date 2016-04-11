@@ -1,0 +1,5 @@
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\IntegerDataTypes\bin\Debug\IntegerDataTypes.exe
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\IntegerDataTypes\bin\Debug\IntegerDataTypes.pdb
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\IntegerDataTypes\obj\x86\Debug\IntegerDataTypes.exe
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\IntegerDataTypes\obj\x86\Debug\IntegerDataTypes.pdb
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\IntegerDataTypes\obj\x86\Debug\IntegerDataTypes.csprojResolveAssemblyReference.cache

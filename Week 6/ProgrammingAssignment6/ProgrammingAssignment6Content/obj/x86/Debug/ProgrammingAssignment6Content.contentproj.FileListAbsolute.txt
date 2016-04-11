@@ -1,0 +1,2 @@
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6Content\obj\x86\Debug\ProgrammingAssignment6Content.contentprojResolveAssemblyReference.cache
+C:\Users\Ruiz\Documents\Informática\CURSOS\Beginning Game Programming with C#\Week 6\Programming assignment 6\ProgrammingAssignment6\ProgrammingAssignment6Content\obj\x86\Debug\ResolveAssemblyReference.cache

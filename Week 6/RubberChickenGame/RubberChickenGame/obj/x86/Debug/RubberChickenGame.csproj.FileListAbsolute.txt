@@ -1,0 +1,27 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\Start Code\VisualStudioGame\RubberChickenGame\RubberChickenGame\bin\x86\Debug\RubberChickenGame.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\Start Code\VisualStudioGame\RubberChickenGame\RubberChickenGame\bin\x86\Debug\RubberChickenGame.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\Start Code\VisualStudioGame\RubberChickenGame\RubberChickenGame\obj\x86\Debug\RubberChickenGame.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\Start Code\VisualStudioGame\RubberChickenGame\RubberChickenGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\Start Code\VisualStudioGame\RubberChickenGame\RubberChickenGame\obj\x86\Debug\RubberChickenGame.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\Start Code\VisualStudioGame\RubberChickenGame\RubberChickenGame\obj\x86\Debug\RubberChickenGame.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\Start Code\VisualStudioGame\RubberChickenGame\RubberChickenGame\bin\x86\Debug\Content\explosion.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\Start Code\VisualStudioGame\RubberChickenGame\RubberChickenGame\bin\x86\Debug\Content\rubberchicken.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\Start Code\VisualStudioGame\RubberChickenGame\RubberChickenGame\bin\x86\Debug\Content\teddybear.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\VisualStudioGame\RubberChickenGame\RubberChickenGame\bin\x86\Debug\Content\explosion.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\VisualStudioGame\RubberChickenGame\RubberChickenGame\bin\x86\Debug\Content\rubberchicken.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\VisualStudioGame\RubberChickenGame\RubberChickenGame\bin\x86\Debug\Content\teddybear.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\VisualStudioGame\RubberChickenGame\RubberChickenGame\bin\x86\Debug\RubberChickenGame.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\VisualStudioGame\RubberChickenGame\RubberChickenGame\bin\x86\Debug\RubberChickenGame.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\VisualStudioGame\RubberChickenGame\RubberChickenGame\obj\x86\Debug\RubberChickenGame.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\VisualStudioGame\RubberChickenGame\RubberChickenGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\VisualStudioGame\RubberChickenGame\RubberChickenGame\obj\x86\Debug\RubberChickenGame.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\VisualStudioGame\RubberChickenGame\RubberChickenGame\obj\x86\Debug\RubberChickenGame.pdb
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 6\RubberChickenGame\RubberChickenGame\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 6\RubberChickenGame\RubberChickenGame\bin\x86\Debug\Content\rubberchicken.xnb
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 6\RubberChickenGame\RubberChickenGame\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 6\RubberChickenGame\RubberChickenGame\bin\x86\Debug\RubberChickenGame.exe
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 6\RubberChickenGame\RubberChickenGame\bin\x86\Debug\RubberChickenGame.pdb
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 6\RubberChickenGame\RubberChickenGame\obj\x86\Debug\RubberChickenGame.csprojResolveAssemblyReference.cache
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 6\RubberChickenGame\RubberChickenGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 6\RubberChickenGame\RubberChickenGame\obj\x86\Debug\RubberChickenGame.exe
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 6\RubberChickenGame\RubberChickenGame\obj\x86\Debug\RubberChickenGame.pdb

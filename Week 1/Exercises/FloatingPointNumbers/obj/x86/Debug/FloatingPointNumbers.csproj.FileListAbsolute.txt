@@ -1,0 +1,4 @@
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\FloatingPointNumbers\bin\Debug\FloatingPointNumbers.exe
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\FloatingPointNumbers\bin\Debug\FloatingPointNumbers.pdb
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\FloatingPointNumbers\obj\x86\Debug\FloatingPointNumbers.exe
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\FloatingPointNumbers\obj\x86\Debug\FloatingPointNumbers.pdb

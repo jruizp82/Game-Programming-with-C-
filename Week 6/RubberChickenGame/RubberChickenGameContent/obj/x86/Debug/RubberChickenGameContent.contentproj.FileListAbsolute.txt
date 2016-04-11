@@ -1,0 +1,3 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\Start Code\VisualStudioGame\RubberChickenGame\RubberChickenGameContent\obj\x86\Debug\RubberChickenGameContent.contentprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\XNA Code\39\VisualStudioGame\RubberChickenGame\RubberChickenGameContent\obj\x86\Debug\RubberChickenGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 6\RubberChickenGame\RubberChickenGameContent\obj\x86\Debug\RubberChickenGameContent.contentprojResolveAssemblyReference.cache

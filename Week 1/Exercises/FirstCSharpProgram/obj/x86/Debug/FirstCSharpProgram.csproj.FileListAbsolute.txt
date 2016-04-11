@@ -1,0 +1,5 @@
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\FirstCSharpProgram\bin\Debug\FirstCSharpProgram.exe
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\FirstCSharpProgram\bin\Debug\FirstCSharpProgram.pdb
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\FirstCSharpProgram\obj\x86\Debug\FirstCSharpProgram.exe
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\FirstCSharpProgram\obj\x86\Debug\FirstCSharpProgram.pdb
+C:\Users\Ruiz\Documents\Informática\CURSOS\C# .NET\Beginning Game Programming with C# - HECHO\Week 1\Exercises\FirstCSharpProgram\obj\x86\Debug\FirstCSharpProgram.csprojResolveAssemblyReference.cache
